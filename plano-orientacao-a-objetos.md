@@ -49,7 +49,7 @@ Link do resumo: https://github.com/LetiSouza18/plano-estudos/blob/main/resumo-or
 7. Compilar e organizar perspectivas sobre o tema
 8. Avaliar o impacto da POO na sociedade
 
-Resumo do objetivo de aprendizagem: 
+Resumo do objetivo final: Me tornar uma desenvolvedora melhor, que domina o paradigma orientado a objetos.
 
 ## Curadoria das fontes de estudo
 
