@@ -40,10 +40,14 @@ Link do resumo: https://github.com/LetiSouza18/plano-estudos/blob/main/resumo-or
 
 ## Objetivos de aprendizagem
 
-1. Aplicar algoritmos de machine learning sobre dados já prontos
-2. Conseguir utilizar as bibliotecas de python focadas em machine learning
-3. Ter uma vaga noção do que é deep learning
-4. Saber explicar o processo de limpeza de dados antes de aplicar qualquer algoritmo
+1. Compreender o significado da programação orientada a objetos
+2. Explicar a diferença entre programação estruturada e orientada a objetos
+3. Identificar situações em que a POO é útil
+4. Aplicar os princípios da orientação a objetos
+5. Analisar os pontos fortes e fracos desse paradigma
+6. Examinar como a orientação a objetos está presente nos projetos em que atua
+7. Compilar e organizar perspectivas sobre o tema
+8. Avaliar o impacto da POO na sociedade
 
 Resumo do objetivo de aprendizagem: 
 
