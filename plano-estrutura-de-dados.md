@@ -4,7 +4,7 @@
 ### Palavras chave de pesquisa
 
 * Estrutura de Dados
-* O que é Estrutura de Dados
+* O que é Estrutura de Dados?
 * Exemplos de uso de Estrutura de Dados
 * Por que usar Estrutura de Dados?
 * Como usamos Estrutura de Dados?
@@ -25,8 +25,8 @@
 Link do resumo: https://github.com/LetiSouza18/plano-estudos/blob/main/resumo-estrutura-de-dados.md
 
 ### Entendimento básico
-1. O que é Estrutura de Dados?
-2. Como eu deveria usar Estrutura de Dados?
+* O que é Estrutura de Dados?
+* Como usamos Estrutura de Dados?
 
 ### Realize uma validação do seu entendimento básico
 
@@ -44,8 +44,8 @@ Link do resumo: https://github.com/LetiSouza18/plano-estudos/blob/main/resumo-es
 
 1. Compreender o significado da estrutura de dados
 2. Explicar a diferença entre os tipos de dados
-3. Entender o que é pilha, lista, filas, árvores e grafos
-4. Identificar em que situações utilizar pilha, lista, filas, árvores e grafos
+3. Entender o que é pilha, lista, fila, árvore e grafos
+4. Identificar em que situações utilizar pilha, lista, fila, árvore e grafos
 5. Aplicar o gerenciamento dinâmico da memória
 6. Analisar estruturas avançadas em problemas de programação
 7. Examinar como a funciona a pesquisa em árvores binárias
@@ -79,7 +79,7 @@ Livro "Estrutura de Dados usando C" dos autores Tenenbaum, Langsam e Augenstein
 
 ### Exercícios práticos que se aproximam das atividades compatíveis com seus objetivos de aprendizagem
 1. [Exercícios de Estrutura de Dados](https://vigusmao.github.io/listas/ED_2016_2_Lista_1.pdf)
-2. Exercícios do Livro
+2. Exercícios do Livro "Estrutura de Dados usando C"
 
 ## Consegue validar o seu aprendizado?
 
