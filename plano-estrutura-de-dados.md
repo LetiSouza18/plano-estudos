@@ -84,3 +84,4 @@ Livro "Estrutura de Dados usando C" dos autores Tenenbaum, Langsam e Augenstein
 ## Consegue validar o seu aprendizado?
 
 1. Como validar?
+   Provas da universidade 
