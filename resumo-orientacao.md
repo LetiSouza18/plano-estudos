@@ -63,7 +63,49 @@ Existe uma limitação da linguagem estrutura em representar o mundo real, pois 
  programação?
   É a diferença entre a representação de um contexto do conhecimento em linguagens de programação.
 
+### Abstração
 
+### Reúso
+#### Herança
 
+#### Associação
 
+### Encapsulamento
 
+#### Classe
+
+O	objetivo	de	uma classe	é	definir,	servir	de	base,	para	o	que	futuramente	será	o objeto.	É	através	dela	que	criamos	o	"molde"	aos	quais	os	objetos deverão	seguir. Este	"molde"	definirá	quais	informações	serão trabalhadas	e	como	elas	serão manipuladas. Classe	também	pode	ser definida	como	uma	abstração	de	uma	entidade.
+
+#### Atributo
+Atributos são características que vão definir quais informações as classes poderão armanezar e manipular. 
+> Atributo	é	o	elemento	de	uma	classe	responsável	por	definir	sua
+ estrutura	de	dados.	O	conjunto	destes	será	responsável	por
+ representar	suas	características	e	fará	parte	dos	objetos	criados	a
+ partir	da	classe.
+
+#### Método
+O método é responsável por identificar e executar as operações que a classe fornece.
+> Método	é	uma	porção	de	código	(sub-rotina)	que	é disponibilizada	pela	classe.	Esta	é	executado	quando	é	feita	uma requisição	a	ela.	Um	método	serve	para	identificar	quais	serviços, ações,	que	a	classe	oferece.	Eles	são	responsáveis	por	definir	e realizar	um	determinado	comportamento.
+
+##### Construtor
+O	construtor	é	responsável	por	criar	objetos	a	partir	da classe	em	questão.	
+
+##### Destrutor
+É usado para eliminar os objetos criados. A funcionalidade Garbage	Collector	é responsável	por	automaticamente	identificar	objetos	que	não mais	estão	sendo	usados	e	eliminá-los.	É	neste	processo	de eliminação	que	o	Garbage	Collector	usa	os	destrutores.
+
+### Objeto
+	É	a	instanciação de	uma	classe
+ >  Um	objeto	é	a	representação	de	um	conceito/entidade	do	mundo
+ real,	que	pode	ser	física	(bola,	carro,	árvore	etc.)	ou	conceitual
+ (viagem,	estoque,	compra	etc.)	e	possui	um	significado	bem	definido
+ para	um	determinado	software.	Para	esse	conceito/entidade,	deve
+ ser	definida	inicialmente	uma	classe	a	partir	da	qual	posteriormente
+ serão	instanciados	objetos	distintos.
+
+- Todo objeto é único
+- Os objetos possuem estados
+- 
+
+### Curiosidades
+Lambda	Expressions	e	Method	Reference	para	Java ou	Method	Group	para	C#;
+Membros se referecem a atributos e métodos de uma classe/objeto;
