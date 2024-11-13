@@ -11,7 +11,7 @@ Tópicos:
 - melhoria no processo chamado tempo de compilação, tornou-se possível detectar de forma mais rápida se o código inicialmente feito conseguiria realizar os passos desejados com sucesso.
 ### Linguagem de baixo nível -> 
 - utilizava cartões perfurados para conversar com o computador.
-### Paradigma Estruturado
+### Paradigma Estruturado/Procedural
 - C e Pascal são as mais famosas, pois são simples de manipular e exigem baixo 	poder computacional para serem executadas;
 - Defende que é possível resolver qualquer problema com sequência, decisão e iteração;
 ### Paradigma Orientado a Objetos 
@@ -91,6 +91,7 @@ Na herança, é possível criar classes a partir de outras classes. Como consequ
 Associação é um relacionamento entre duas ou mais classes, em que uma classe usa objetos de outra classe como parte de suas operações.
 
 ### Encapsulamento
+Capacidade de esconder detalhes da implementação do objeto, expondo somente o que deve ser acessado publicamente. 
 
 ## Conceitos estruturais
 
@@ -115,8 +116,11 @@ O construtor é responsável por criar objetos a partir da classe em questão.
 ### Objeto: é a instanciação de	uma classe
  >  Um objeto é a representação	de um conceito/entidade	do mundo real, que pode	ser física (bola, carro, árvore	etc.) ou conceitual (viagem, estoque, compra	etc.) e	possui um significado bem definido para	um determinado software. Para esse conceito/entidade, deve ser definida inicialmente uma classe	a partir da qual posteriormente serão instanciados objetos distintos.
 
-- Todo objeto é único
-- Os objetos possuem estados
+- Todo objeto é único (ocupa um determinado espaço na memória);
+- Os objetos possuem estados;
+- A igualdade entre dois objetos se dá pelo fato de terem determinados atributos iguais, para isso utiliza-se o método `equals`;
+- Hashcode é um número gerado a partir do estado corrente do objeto, ou seja, dos valores de seus atributos naquele determinado momento;
+- Podemos representar os objetos de forma padrão (utilizando os atributos que o identificam melhor) com o método toString;
 - 
 
 #### Curiosidades
