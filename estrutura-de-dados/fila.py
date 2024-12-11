@@ -1,23 +1,23 @@
 class Node:
-    def _init_(self, data):
+    def __init__(self, data):
         self.data = data
         self.next = None
 
 class Queue:
-    def _init_(self):
+    def __init__(self):
         self.start = None
         self.end = None
         self.tamanho = 0
 
     def enfileirar(self, data):
-        currentNode = Node(data)
+        novoNo = Node(data)
         if self.start is None:
-            self.start = currentNode
+            self.start = novoNo
         
         if self.end:
-            self.end.next = currentNode
+            self.end.next = novoNo
         
-        self.end = currentNode
+        self.end = novoNo
         self.tamanho += 1
     
     def desenfileirar(self):
