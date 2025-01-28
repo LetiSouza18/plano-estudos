@@ -40,6 +40,8 @@ Link do resumo: https://github.com/LetiSouza18/plano-estudos/blob/main/resumo-es
   
 - Como a estrutura de Dados se relaciona com banco de dados?
 
+   Em resumo, bancos de dados dependem de estruturas de dados para organizar, armazenar e acessar informações de maneira eficiente e escalável. Ao projetar um banco ou trabalhar com ele, é essencial entender as estruturas subjacentes para otimizar o desempenho e atender às necessidades do sistema.
+
 ## Objetivos de aprendizagem
 
 1. Compreender o significado da estrutura de dados
@@ -67,6 +69,7 @@ Artigo [Estruturas de Dados e Técnicas de Programação do autor Tomasz Kowalto
 ### Fontes de consumo fácil
 
 Livro "Estrutura de Dados usando C" dos autores Tenenbaum, Langsam e Augenstein
+Livro "Estruturas de Dados - Domine as práticas essenciais em C, Java, C#, Python e Javascript" do autor Thiago Leite e Carvalho
 
 ## Exercícios para que você chegue mais próximo dos objetivos de aprendizagem
 
