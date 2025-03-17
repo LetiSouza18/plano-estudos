@@ -4,7 +4,7 @@
 - Orientação a Objetos
 - Estrutura de Dados
 - Banco de Dados
-- Pré-cálculo
+- Inglês
 - Programação competitiva
   
 #### Foi criado baseado no template disponibilizado pelo Alberto Souza, criador do canal DEV Eficiente:
