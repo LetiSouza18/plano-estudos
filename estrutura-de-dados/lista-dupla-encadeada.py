@@ -13,9 +13,6 @@ class Lista:
     def vazia(self):
         return self.inicio is None
 
-    def add_inicio(self, data):
-        # Implementação para adicionar no início
-
     def add_fim(self, data):
         novoNo = Node(data)
         if self.inicio is None:
@@ -47,15 +44,6 @@ class Lista:
             novoNo.proximo = atual
             atual.anterior = novoNo
 
-    def remover_inicio(self):
-        # Implementação para remover do início
-
-    def remover_fim(self):
-        # Implementação para remover do fim
-
-    # ... outros métodos (buscar, etc.) ...
-
-# Exemplo de uso:
 minha_lista = Lista()
 minha_lista.add_inicio(10)
 minha_lista.add_fim(20)
